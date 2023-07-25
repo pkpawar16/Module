@@ -32,6 +32,7 @@ def test_read_cfg_config(config_reader, tmp_path):
 
 def test_read_conf_config(config_reader, tmp_path):
 
+
     # Test cases Create a temporary CONF file
     file_path = tmp_path / "config.conf"
     file_path.write_text("key = value")

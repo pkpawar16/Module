@@ -21,6 +21,7 @@
     STEP 5: python config_parser.py
 
 # Project Structure:
+    
     Assigement (# project root)
      |--config_paresr.py (# configurations related files)
      |--README.md (#documetation)
