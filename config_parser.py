@@ -3,7 +3,6 @@ import configparser
 import json
 import os
 
-
 class ConfigParser:
     config = {}
     def read_config(self, file_path):
