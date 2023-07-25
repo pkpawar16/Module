@@ -1,5 +1,6 @@
 # Problem Statement::
 
+
    Write an install able module in python with the following functionality:
    The module should be able to read .yaml, .cfg, .conf configuration file formats, read the configurations 
    and generate a flat dictionary out of it.
