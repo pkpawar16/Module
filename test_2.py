@@ -2,7 +2,6 @@ import os
 import pytest
 from config_parser import ConfigParser
 
-
 @pytest.fixture
 def config_reader():
     return ConfigParser()
